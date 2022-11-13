@@ -131,7 +131,7 @@ while not game_over:
 #Puntuaciones
     
     font = pygame.font.SysFont("serif",25)#Tipografia y tamaño
-    text = font.render("cambio 2",True, White)#Mensaje en pantalla, True=Calidad de la letra, Color
+    text = font.render("cambio 3",True, White)#Mensaje en pantalla, True=Calidad de la letra, Color
     screen.blit(text,(0,0))
     pygame.display.flip()
 
